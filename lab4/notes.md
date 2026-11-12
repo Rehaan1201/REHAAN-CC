@@ -46,3 +46,4 @@ No. `git push` does not change the local commit history. It copies commits that 
 
 ## Question 14
 A private repository exists on GitHub but its contents can only be accessed by the owner and people who have been granted permission. If a repository does not exist on GitHub at all, there is no remote GitHub repository to access, collaborate on, or push to.
+
